@@ -14,7 +14,7 @@ Este laboratório demonstra conceitos importantes de **observabilidade em ambien
 
 # Arquitetura do Laboratório
 
-![Arquitetura](assets/architecture-monitoring.png)
+![Arquitetura](architecture-monitoring.png)
 
 ---
 
